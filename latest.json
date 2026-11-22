@@ -1,9 +1,10 @@
 {
     "version": "1.0.1",
-    "build": 1795334531,
-    "file": "daily-rahmat-web-v1.0.1-1795334531.zip",
-    "bytes": 23610928,
-    "sha256": "4c5a33e8652473527a15d032a51d4f1a08a2b0f9d5c9448711b980708cab4c51",
-    "files": 803,
-    "created_at": "2026-11-22T15:02:12+07:00"
+    "build": 1795336473,
+    "file": "daily-rahmat-web-v1.0.1-1795336473.zip",
+    "bytes": 23620914,
+    "sha256": "ea23d5d5da17c9e7265880e8e5b4f58b79a4a8447b931ab1fb5e61abaafc2fd5",
+    "files": 806,
+    "created_at": "2026-11-22T15:34:34+07:00",
+    "url": "https://github.com/dailyrahmat/panel/releases/download/v1.0.1-1795336473/daily-rahmat-web-v1.0.1-1795336473.zip"
 }

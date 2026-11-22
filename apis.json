@@ -4,7 +4,7 @@
     "generated_at": "2026-11-22T17:14:24+07:00",
     "domains": [
         {
-            "label": "Daily Rahmat",
+            "label": "Public",
             "url": "https://dailyrahmat.ftn.host/",
             "priority": 1
         },
@@ -29,7 +29,7 @@
             "priority": 5
         },
         {
-            "label": "Laragon (utama)",
+            "label": "Main",
             "url": "https://laragon.ftn.host/ftn.host.quran/",
             "priority": 6
         }

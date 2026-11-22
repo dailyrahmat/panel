@@ -1,36 +1,36 @@
 {
     "success": true,
-    "version": "884670003d221c43",
-    "generated_at": "2026-11-22T16:41:39+07:00",
+    "version": "2ccf25527a522aa0",
+    "generated_at": "2026-11-22T17:14:24+07:00",
     "domains": [
         {
-            "label": "Main",
-            "url": "https://laragon.ftn.host/ftn.host.quran/",
-            "priority": 1
-        },
-        {
-            "label": "Public",
+            "label": "Daily Rahmat",
             "url": "https://dailyrahmat.ftn.host/",
-            "priority": 2
+            "priority": 1
         },
         {
             "label": "Child 1",
             "url": "https://dr1.bintangtriputratex.com/",
-            "priority": 3
+            "priority": 2
         },
         {
             "label": "Child 2",
             "url": "https://dr2.kbpgroup.net/",
-            "priority": 4
+            "priority": 3
         },
         {
             "label": "Child 3",
             "url": "https://dr3.kokohbp.com/",
-            "priority": 5
+            "priority": 4
         },
         {
             "label": "Child 4",
             "url": "https://dr4.marioardi.com/",
+            "priority": 5
+        },
+        {
+            "label": "Laragon (utama)",
+            "url": "https://laragon.ftn.host/ftn.host.quran/",
             "priority": 6
         }
     ]

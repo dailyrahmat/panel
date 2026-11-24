@@ -1,7 +1,7 @@
 {
     "success": true,
     "version": "2ccf25527a522aa0",
-    "generated_at": "2026-11-22T17:14:24+07:00",
+    "generated_at": "2026-11-24T20:25:33+07:00",
     "domains": [
         {
             "label": "Public",
@@ -29,7 +29,7 @@
             "priority": 5
         },
         {
-            "label": "Main",
+            "label": "Tunnel",
             "url": "https://laragon.ftn.host/ftn.host.quran/",
             "priority": 6
         }
